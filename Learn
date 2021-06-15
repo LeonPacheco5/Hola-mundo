@@ -1,0 +1,11 @@
+print("Hola mundo") **Sirve para meter texto**
+
+input("Dime tu edad: ") Dar una instruccion al usuario que introduzca
+
+Datos que puede guardar como variables 
+
+bote de yogurth = "de limon"
+age = 20 
+
+
+
